@@ -1,108 +1,110 @@
-# 👋 Hi, I'm Harsh Meshram  
+<div align="center">
 
-🚀 Full Stack Developer | MERN Stack | Problem Solver  
-🎓 Engineering Student | Passionate about building real-world products  
+# ✨ Harsh Meshram ✨  
+### 🚀 Full Stack Developer | MERN Stack | Builder at Heart  
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I+build+things+that+actually+work.;Full+Stack+Developer;Learning+by+Building;Turning+Ideas+into+Products" />
 
-## 👨‍💻 About Me  
-
-I am a **Full Stack Developer** with a strong interest in building **scalable, user-focused web applications**.  
-I enjoy converting ideas into working products and learning how systems work **end-to-end**, from frontend UI to backend logic and databases.
-
-I believe in:
-- Writing clean and understandable code  
-- Learning by building real projects  
-- Solving real-life problems using technology  
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧠 About Me  
 
-### Frontend  
-- HTML5, CSS3, JavaScript  
-- React.js  
-- Tailwind CSS / Bootstrap  
+💡 I’m a **Full Stack Developer** who enjoys building **end-to-end products**, not just writing code.  
+From designing clean UI to structuring backend logic and databases — I love the **complete development flow**.
 
-### Backend  
-- Node.js  
-- Express.js  
-- REST APIs  
-
-### Database  
-- MongoDB  
-- MySQL (Basics)  
-
-### Tools & Platforms  
-- Git & GitHub  
-- Postman  
-- VS Code  
-- Linux (Basics)  
+I focus on:
+- 🚀 Real-world problem solving  
+- 🧩 Understanding systems deeply  
+- 🛠️ Writing clean, readable code  
 
 ---
 
-## 📂 Projects  
+## ⚙️ Tech Arsenal  
 
-### 🌾 AgriSense – Smart Farming Platform  
-A location-based platform for farmers that provides:
-- Real-time weather alerts  
-- Crop disease prediction  
-- AI-based farming suggestions  
-- Notifications via SMS/WhatsApp  
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  
 
-**Tech Used:** MERN Stack, APIs, AI Logic  
+### 🧠 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)  
 
----
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)  
 
-### 🎓 Talent Trade – Campus Placement Platform  
-An online system for:
-- Student registration & tracking  
-- Recruiter dashboard  
-- Placement data management  
-
-**Tech Used:** MERN Stack  
-
----
-
-### 🌐 Other Projects  
-- Full Stack CRUD Applications  
-- Authentication Systems  
-- API-based Dashboards  
-
-> Check repositories for source code and demos 👇  
+### 🧰 Tools  
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)  
 
 ---
 
-## 📈 What I'm Currently Learning  
+## 🚀 Featured Projects  
 
-- Backend optimization  
-- System design basics  
-- Writing production-level code  
+### 🌾 **AgriSense – Smart Farming Platform**  
+> AI-powered agriculture assistant for Indian farmers  
+
+🔹 Location-based weather alerts  
+🔹 Crop disease prediction  
+🔹 Farming recommendations  
+🔹 SMS / WhatsApp notifications  
+
+**Stack:** MERN + APIs + AI Logic  
+
+---
+
+### 🎓 **Talent Trade – Campus Placement System**  
+> End-to-end placement management platform  
+
+🔹 Student & recruiter dashboards  
+🔹 Application tracking  
+🔹 Admin management  
+
+**Stack:** MERN  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌱 Currently Growing  
+
+- Advanced backend concepts  
+- Scalable system design  
 - Open-source contribution  
+- Production-ready code  
 
 ---
 
-## 🤝 Open to Opportunities  
+## 🤝 Let’s Connect  
 
-I am actively looking for:
-- Internships  
-- Entry-level Full Stack roles  
-- Open-source collaboration  
+<div align="center">
 
-If you like my work or want to collaborate, feel free to connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
----
-
-## 📫 Connect With Me  
-
-- GitHub: [Your GitHub Profile Link]  
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Email: [your-email@example.com]  
+</div>
 
 ---
 
-⭐ *If you find my projects helpful, don’t forget to star the repository!*  
+<div align="center">
 
-Harshofft/Harshofft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ *If you like my work, consider starring the repositories!*  
+
+🔥 *Always learning. Always building.*  
+
+</div>
