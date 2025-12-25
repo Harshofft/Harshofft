@@ -72,9 +72,9 @@ I focus on:
 
 <div align="center">
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshofft&show_icons=true&theme=tokyonight)  
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshofft&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshofft&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshofft&layout=compact&theme=tokyonight)
 
 </div>
 
